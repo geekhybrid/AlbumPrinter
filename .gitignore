@@ -1,0 +1,33 @@
+# Windows and Mac OS X Temp Cache Files
+[Tt]humbs.db
+*.DS_Store
+ 
+# Visual Studio files
+*.suo
+*.user
+*.tmp_proj
+*.metaproj
+*.tmp
+*.DotSettings
+bin
+obj
+publish
+.vs/
+
+# Tooling
+_ReSharper*/
+*.resharper
+[Tt]est[Rr]esult*
+.idea/
+
+# Misc
+packages
+*.db
+*.db-shm
+*.db-wal
+
+!Dependencies/**/*.dll
+/CefBuilds
+/Output
+Database/AMS.Database/AMS.Database.dbmdl
+*.jfm
