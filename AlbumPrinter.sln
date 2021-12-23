@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlbumPrinter", "AlbumPrinter\AlbumPrinter.csproj", "{A1E98C99-84FC-4CB6-A6DA-3185DC3C12D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{61C1D948-0AC7-47F9-B4C7-829F2FC6FA3B}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlbumPrinter.Tests", "AlbumPrinter.Tests\AlbumPrinter.Tests.csproj", "{214DF255-04D3-40E8-98A5-D8E008A37E94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1E98C99-84FC-4CB6-A6DA-3185DC3C12D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E98C99-84FC-4CB6-A6DA-3185DC3C12D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E98C99-84FC-4CB6-A6DA-3185DC3C12D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E98C99-84FC-4CB6-A6DA-3185DC3C12D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{214DF255-04D3-40E8-98A5-D8E008A37E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{214DF255-04D3-40E8-98A5-D8E008A37E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{214DF255-04D3-40E8-98A5-D8E008A37E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{214DF255-04D3-40E8-98A5-D8E008A37E94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {557698CD-A7AF-4AAF-BCC2-4716F049498A}
+	EndGlobalSection
+EndGlobal
